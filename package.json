@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/deadlybutter/rootfix#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "express": "^4.14.0",
     "forky": "^0.3.0"
   }
